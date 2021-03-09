@@ -101,11 +101,33 @@ body {
   font-weight: 700;
 }
 
+.title {
+    /* font-family: Roboto; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
 
 /*
  * Footer
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+.link {
+    /* font-family: Roboto; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #E5E5E5;
 }
 

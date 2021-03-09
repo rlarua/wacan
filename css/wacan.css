@@ -130,3 +130,19 @@ body {
 
     color: #FFFFFF;
 }
+
+/*
+ * 반응형
+ */
+ @media (max-width: 768px) { 
+    .text-title {
+        font-size: 14px;
+    }
+
+    a,
+    a:focus,
+    a:hover {
+        font-size: 12px;
+    }
+  }
+
